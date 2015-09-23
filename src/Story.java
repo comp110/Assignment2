@@ -1,4 +1,4 @@
-//Do not change anything in this file!////////////////////////////////////////////
+// Do not change anything in this file!////////////////////////////////////////////
 public class Story {
 	public static void intro() {
 		// Intro 
